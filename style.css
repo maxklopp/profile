@@ -1,0 +1,102 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #16425B;
+  color: rgb(125,125,125);
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 400
+  text-align: justify;
+}
+
+h1 {
+  font-family: 'Montserat', sans-serif;
+  color: #16425B;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: justify
+  font-weight: 700;
+}
+
+h2, h3 {
+  font-family: 'Montserat', sans-serif;
+  color: #16425B;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: justify
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(125,125,125);
+}
+
+
+a:hover {
+  text-decoration: none;
+  color: #16425B;
+}
+
+a.btn-blue:hover {
+  text-decoration: none;
+    background-color: #16425B;
+    opacity: 1;
+    color:white;
+}
+
+.tvshows {
+  width: 200px;
+  margin: 3px;
+  margin-right: 10px;
+}
+
+.logos {
+  height: 80px;
+  margin: 3px;
+  margin-right: 10px;
+}
+.card {
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px auto;
+  width: 800px;
+  text-align: center;
+  padding: 15px;
+}
+
+.container {
+  margin: 30px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.fa {
+  font-size: 40px;
+}
+
+#links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-blue {
+    background-color: #16425B;
+    opacity: 0.5;
+    color: white;
+    font-weight: 300;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.margin-t {
+  margin-top:20px;
+}
+
+.list-inline
+{
+  margin-top:30px;
+}
