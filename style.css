@@ -12,7 +12,7 @@ h1 {
   font-family: 'Montserat', sans-serif;
   color: #16425B;
   font-size: 25px;
-  line-height: 30px;
+  line-height: 25px;
   text-align: justify
   font-weight: 700;
 }
@@ -21,7 +21,7 @@ h2, h3 {
   font-family: 'Montserat', sans-serif;
   color: #16425B;
   font-size: 20px;
-  line-height: 25px;
+  line-height: 20px;
   text-align: justify
   font-weight: 400;
 }
@@ -60,7 +60,7 @@ a.btn-blue:hover {
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
-  margin: 20px auto;
+  margin: 10px auto;
   width: 800px;
   text-align: center;
   padding: 15px;
